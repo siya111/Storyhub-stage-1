@@ -56,19 +56,3 @@ const styles = StyleSheet.create({
 });
 
 
-/*
-const TabNavigator = createBottomTabNavigator({
-  Facebook: { screen: Facebook },
-  Instagram: { screen: Instagram }
-});
-
-const AppContainer = createAppContainer(TabNavigator);
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: "red",
-    alignItems: "center",
-    justifyContent: "center"
-  }
-}); */
